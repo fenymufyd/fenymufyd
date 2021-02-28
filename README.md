@@ -1,10 +1,10 @@
 ### Wohallaw wohallaw everywon!!! 👋
 
 here are some quick facks about me 🥴: 
-- I like translating FOSS projects into another language, mainly into Bahasa Indonesia and Banjar 
+- I Enjoy translating FOSS projects into another language, mainly into Bahasa Indonesia and Banjar 
 - Am write amateurly in Wikipedia, and maps stuff at Openstreetmap
-- Still learning python specifically about AI/Machine learning 
-- Also learning modern javascript
+- Still learning python (specifically into AI/Machine learning) 
+- Also learning modern fullstack javascript
 - Am wishing to have a real job soon 🥴
 
 <!--
