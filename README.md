@@ -3,6 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&theme=vision-friendly-dark">
 </div>
 
+<!--
 ### Wohallaw wohallaw everywon!!! 👋
 
 here are some quick facks about me 🥴: 
