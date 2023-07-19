@@ -1,7 +1,4 @@
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&theme=vision-friendly-dark&hide_rank=true" style="-moz-user-select: none;-khtml-user-select: none;-webkit-user-select: none;user-select: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&theme=vision-friendly-dark">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FenyMufyd&hide_progress=true)
 
 <!--
 ### Wohallaw wohallaw everywon!!! 👋
