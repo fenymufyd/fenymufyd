@@ -1,6 +1,6 @@
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd\&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FenyMufyd&hide_progress=false&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenyMufyd&show_icons=true&theme=transparent)
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd\&layout=compact)
 <!--
 ### Wohallaw wohallaw everywon!!! 👋
 
