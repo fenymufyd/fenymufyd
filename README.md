@@ -1,6 +1,6 @@
-<pre>
+```
 What does your techstack list mean anyway? JFYI I've watched every single Fireship video and his new uploads without fail, also frequent ThePrimeagen streams on youtube is that good enough of a techstack?
-</pre>
+```
  
 <!--
 
