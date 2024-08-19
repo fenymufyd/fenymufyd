@@ -1,7 +1,9 @@
-```
-What does your techstack list mean anyway? JFYI I've watched every single Fireship video and his new uploads without fail, also frequent ThePrimeagen streams on youtube is that good enough of a techstack?
-```
- 
+<pre>
+What does your techstack list mean anyway? 
+Just FYI, I've watched every single Fireship video and his new uploads without fail.
+I also frequent ThePrimeagen streams on youtube 
+Is that good enough of a techstack? 
+</pre>
 <!--
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd\&layout=compact)
