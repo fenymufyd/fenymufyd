@@ -34,5 +34,7 @@ here are some quick facks about me 🥴:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true" />
 </picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact)]
