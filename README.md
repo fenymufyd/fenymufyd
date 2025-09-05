@@ -7,16 +7,16 @@ I don't know what to believe in anymore.
 <summary>Stats a.k.a. Ego-trip a.k.a. エゴサ</summary>
 <br>
 
-
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&theme=dark&disable_animations=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&theme=dark&disable_animations=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&disable_animations=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&disable_animations=true&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&disable_animations=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&disable_animations=true&theme=transparent" />
 </picture>
 
 <picture>
