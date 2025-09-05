@@ -9,38 +9,38 @@ I don't know what to believe in anymore.
 
 
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&theme=dark&disable_animations=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&disable_animations=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&disable_animations=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&show_icons=true&theme=dark&disable_animations=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&show_icons=true&disable_animations=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenymufyd&layout=compact&show_icons=true&disable_animations=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact&show_icons=true&theme=dark&disable_animations=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact&show_icons=true&disable_animations=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fenymufyd&layout=compact&show_icons=true&disable_animations=true" />
 </picture>
 </details>
 <picture>
