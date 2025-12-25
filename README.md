@@ -10,6 +10,7 @@ img{image-rendering:pixelated!important;}
 <summary>Stats a.k.a. Ego-trip a.k.a. エゴサ</summary>
 <br>
 
+<a href="https://wakatime.com/@f290a0a9-4937-4601-9ed8-1036ffc5f244"><img src="https://wakatime.com/badge/user/f290a0a9-4937-4601-9ed8-1036ffc5f244.svg" alt="Total time coded since Jun 29 2021" /></a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=fenymufyd&show_icons=true&theme=dark&disable_animations=true&theme=transparent"
