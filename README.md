@@ -1,6 +1,6 @@
 <pre>
-Apparently Fireship sold their soul to the private equity.
-I don't know what to believe in anymore.
+/* inject this CSS style below to render my profile picture correctly, use tampermonkey/stylus/ublock origin to inject permanently*/
+img{image-rendering:pixelated !important;}
 </pre>
 
 <details>
