@@ -1,6 +1,9 @@
 <pre>
-/* inject this CSS style below to render my profile picture correctly, use tampermonkey/stylus/ublock origin to inject permanently*/
-img{image-rendering:pixelated !important;}
+/* 
+  Inject CSS style below to render my profile picture correctly. 
+  tip: Use Tampermonkey/Stylus/UBlock Origin to inject styles permanently 
+*/
+img{image-rendering:pixelated!important;}
 </pre>
 
 <details>
